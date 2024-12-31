@@ -1,11 +1,7 @@
 # NNTI Assignment 1
 
 ## Overview
-This repository contains the implementation for **Assignment 1** of the Neural Networks and Theoretical Insights (NNTI) course. The assignment covers key concepts of data generation, visualization, and classification using Python libraries such as `NumPy`, `Matplotlib`, and `scikit-learn`.
-
-## Assignment Details
-**Released:** 23.10.2024  
-**Deadline:** 30.10.2024 23:59  
+This repository contains the implementation for **Assignment 1** of the Neural Networks: Theory and Implementation  (NNTI) course. The assignment covers key concepts of data generation, visualization, and classification using Python libraries such as `NumPy`, `Matplotlib`, and `scikit-learn`.
 
 ### Topics Covered
 1. **Data Generation**:
